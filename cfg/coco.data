@@ -1,0 +1,8 @@
+classes= 80
+train  = /home/graymatics/Pictures/ObjectDetection-OneStageDet/darknet/train.txt
+valid  = /home/graymatics/Pictures/ObjectDetection-OneStageDet/darknet/test.txt
+#valid = /home/graymatics/Pictures/ObjectDetection-OneStageDet/darknet/test.txt
+names = /home/jacob/yolo_darknet/data/coco_only_person.names
+backup = /home/pjreddie/backup/
+eval=coco
+
